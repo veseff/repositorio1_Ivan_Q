@@ -1,3 +1,6 @@
 print("hello, world")
-print("rulos saltarines")
-print("Kilos mortales")
+print(input("escribe tu edad: "))
+    print("estas viejo henrry")
+
+
+
