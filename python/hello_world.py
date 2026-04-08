@@ -1,6 +1,3 @@
 print("hello, world")
-print(input("escribe tu edad: "))
-    print("estas viejo henrry")
-
-
-
+edad=(input("escribe tu edad: "))
+print(f"tienes {edad} año estas viejo henrry")
